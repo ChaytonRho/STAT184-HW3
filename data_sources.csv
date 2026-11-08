@@ -1,0 +1,3 @@
+dataset,publisher,source_url,local_file,file_format,download_method,download_date,license
+Chicago Public Library locations,City of Chicago / Chicago Public Library,https://data.cityofchicago.org/d/x8fc-8rcq,libraries.csv,CSV,Manual export from source portal,2026-11-08,City of Chicago Open Data Terms of Use
+Chicago community area boundaries,City of Chicago,https://data.cityofchicago.org/d/igwz-8jzy,community_areas.geojson,GeoJSON,Manual export from source portal,2026-11-08,City of Chicago Open Data Terms of Use
